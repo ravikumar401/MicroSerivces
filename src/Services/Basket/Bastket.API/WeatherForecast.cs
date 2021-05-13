@@ -1,6 +1,6 @@
 using System;
 
-namespace Catalog.API
+namespace Bastket.API
 {
     public class WeatherForecast
     {
